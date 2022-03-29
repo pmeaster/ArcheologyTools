@@ -5,13 +5,13 @@ This repository contains the source code for a set of mapping and analysis tools
 
 ## Documents:
 
-<font size="5">**Archeological Renaissance**</font>
+**Archeological Renaissance**
 
 The four-part series ***Archeological Renaissance*** is located in the "*docs\Archeological Renaissance*" repository folder. Each part of the series is contained in a Microsoft PowerPoint document. 
 
 However, pdf versions can be found in the "*docs\Archeological Renaissance\pdf*" repository folder.
 
-<font size="5">**Data Reference Spreadsheets**</font>
+**Data Reference Spreadsheets**
 Data reference Excel spreadsheets can be found in the "*docs\Data Reference*" repository folder. These spreadsheets contain the following data:
 
  - Solar System Object Properties
@@ -22,13 +22,13 @@ Data reference Excel spreadsheets can be found in the "*docs\Data Reference*" re
 
 This data is directly referenced within the ***Archeological Renaissance*** series.
 
-<font size="5">**Research Papers**</font>
+**Research Papers**
 
 Several research papers can be found in the "*docs\Research Papers*" repository folder.  Information from these research papers is directly referenced within the ***Archeological Renaissance*** series.
 
 ## Tools:
 
-<font size="5">**Database**</font>
+**Database**
 
 The tools are configured to use a Sql Server database by default. A backup file that contains the complete backup of the Archeology database is located in the "*data/Sql Server Backups*" repository folder. The name of the backup file is:
 
@@ -40,7 +40,7 @@ The database references one SqlClr assembly, which should already be registered.
 
 The SqlClr assembly is only required if using the "Ancient Site Alignment and Location Analysis Tool" and populating (refreshing) the tables in the Sql database.
 
-<font size="5">**KML Layout Generator**</font>
+**KML Layout Generator**
 
 The KML layout generator tool dynamically generates Keyhole Markup Language (KML) documents and outputs the resulting xml to the specified stream/location. 
 
@@ -75,7 +75,7 @@ The following is a snippet of KML output when configured for the NetworkLink fea
 
 The tool can be configured to use any host or port. It is recommended that SSL is enabled, as some security policies restrict nonsecure http requests.
 
-<font size="5">**Ancient Site Alignment and Location Analysis Tool**</font>
+**Ancient Site Alignment and Location Analysis Tool**
 
 The data and visuals used for the "Probability Matrix" (Part II: Pivots) are located in a Microsoft Power BI project file. The file is located in the "*visualization\Microsoft Power BI*" repository folder. 
 
