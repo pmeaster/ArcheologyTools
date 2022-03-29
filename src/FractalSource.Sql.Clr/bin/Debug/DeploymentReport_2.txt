@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [FractalSource.Sql.Clr] (Assembly)
+       [dbo].[SqlGeoCoordinates] (User-Defined Type)
+       [dbo].[SqlGeodeticCurve] (User-Defined Type)
+       [dbo].[CalculateEndingCoordinates] (Function)
+       [dbo].[CalculateGeodeticCurve] (Function)
+       [dbo].[CalculateGeodeticCurveFromCoordinates] (Function)
+
+** Supporting actions

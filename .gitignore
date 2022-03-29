@@ -3,3 +3,24 @@
 ################################################################################
 
 /.vs
+/src/.vs/FractalSource.Mapping
+/src/FractalSource.Core/bin
+/src/FractalSource.Core/obj
+*.user
+/src/FractalSource.Mapping/.idea/.idea.FractalSource.Mapping/.idea
+/src/FractalSource.Mapping/.vs/FractalSource.Mapping
+/src/FractalSource.Mapping/bin
+/src/FractalSource.Mapping/obj
+*.DotSettings
+/src/FractalSource.Mapping.Configuration/bin
+/src/FractalSource.Mapping.Configuration/obj
+/src/FractalSource.Mapping.Console/bin
+/src/FractalSource.Mapping.Console/obj
+/src/FractalSource.Mapping.Data/bin
+/src/FractalSource.Mapping.Data/obj
+/src/FractalSource.Mapping.Kml/bin
+/src/FractalSource.Mapping.Kml/obj
+/src/FractalSource.Mapping.Web/bin
+/src/FractalSource.Mapping.Web/obj
+/src/FractalSource.Sql.Clr/.vs/FractalSource.Sql.Clr
+/visualization/Microsoft Power BI/Ancient Site Pole Projections.pbix

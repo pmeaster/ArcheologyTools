@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>FractalSource.Mapping</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FractalSource.Core\FractalSource.Core.csproj" />
+    <ProjectReference Include="..\FractalSource.Mapping.Data\FractalSource.Mapping.Data.Sql.csproj" />
+    <ProjectReference Include="..\FractalSource.Mapping.Kml\FractalSource.Mapping.Kml.csproj" />
+    <ProjectReference Include="..\FractalSource.Mapping\FractalSource.Mapping.csproj" />
+  </ItemGroup>
+
+</Project>

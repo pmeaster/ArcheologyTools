@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <StartupObject>FractalSource.Mapping.Console.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="appsettings.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="appsettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FractalSource.Core\FractalSource.Core.csproj" />
+    <ProjectReference Include="..\FractalSource.Mapping.Configuration\FractalSource.Mapping.Configuration.csproj" />
+    <ProjectReference Include="..\FractalSource.Mapping.Kml\FractalSource.Mapping.Kml.csproj" />
+    <ProjectReference Include="..\FractalSource.Mapping\FractalSource.Mapping.csproj" />
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties appsettings_1json__JsonSchema="https://json.schemastore.org/bettercodehub.json" /></VisualStudio></ProjectExtensions>
+
+</Project>

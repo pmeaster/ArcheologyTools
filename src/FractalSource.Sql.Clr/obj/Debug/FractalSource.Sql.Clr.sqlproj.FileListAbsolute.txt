@@ -1,0 +1,9 @@
+C:\Users\paule\OneDrive\src\repos\FractalSource\SqlClr\bin\Debug\FractalSource.Sql.Clr.dacpac
+C:\Users\paule\OneDrive\src\repos\FractalSource\SqlClr\bin\Debug\FractalSourceSqlClr.dll
+C:\Users\paule\OneDrive\src\repos\FractalSource\SqlClr\bin\Debug\FractalSourceSqlClr.pdb
+C:\Users\paule\OneDrive\src\repos\FractalSource\SqlClr\obj\Debug\FractalSourceSqlClr.dll
+C:\Users\paule\OneDrive\src\repos\FractalSource\SqlClr\obj\Debug\FractalSourceSqlClr.pdb
+C:\Users\paule\OneDrive\src\repos\FractalSource\SqlClr\obj\Debug\Model.xml
+C:\Users\paule\OneDrive\src\repos\FractalSource\SqlClr\obj\Debug\refactor.xml
+C:\Users\paule\OneDrive\src\repos\FractalSource\SqlClr\obj\Debug\postdeploy.sql
+C:\Users\paule\OneDrive\src\repos\FractalSource\SqlClr\obj\Debug\predeploy.sql
