@@ -37,6 +37,8 @@ The database can be restored to any Sql Server 2012 (or later) instance.
 
 The database references one SqlClr assembly, which should already be registered. The source code for the assembly can be found in the "*src\FractalSource.Sql.Clr*" repository folder. The project file requires the .Net Framework 4.5.2 SDK, which Visual Studio 2022 (and later) no longer support. Therefore, Visual Studio 2019 is the latest version that can be used to open and/or compile the project.
 
+The SqlClr assembly is only required if using the "Ancient Site Alignment and Location Analysis Tool" and populating (refreshing) the tables in the Sql database.
+
 **KML Layout Generator**
 
 The KML layout generator tool dynamically generates Keyhole Markup Language (KML) documents and outputs the resulting xml to the specified stream/location. 
