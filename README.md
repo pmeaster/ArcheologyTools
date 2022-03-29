@@ -35,7 +35,7 @@ The tools are configured to use a Sql Server database by default. A backup file 
 
 The database can be restored to any Sql Server 2012 (or later) instance.
 
-The database references one SqlClr assembly, which should already be registered. The source code for the assembly can be found in the "*src\FractalSource.Sql.Clr*" repository folder. The project file requires the .Net Framework 3.5 SDK, which Visual Studio 2022 and later no longer supports.
+The database references one SqlClr assembly, which should already be registered. The source code for the assembly can be found in the "*src\FractalSource.Sql.Clr*" repository folder. The project file requires the .Net Framework 4.5.2 SDK, which Visual Studio 2022 (and later) no longer support. Therefore, Visual Studio 2019 is the latest version that can be used to open and/or compile the project.
 
 **KML Layout Generator**
 
