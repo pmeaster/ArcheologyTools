@@ -106,6 +106,6 @@ All tools support (and use) .Net Core dependency injection.
 
 There are **no unit tests** programmed or configured for any of the tools. 
 
-Currently, there are no plans to implement unit tests nor make any changes/enhancements to the codebase located within this repository. However, this repository can be cloned and updated/customized by anyone. 
+Currently, there are no plans to implement unit tests nor make any changes/enhancements to the codebase located within this repository. However, this repository can be cloned/forked and updated/customized by anyone. 
 
-Finally, if the development community generally agrees upon an "official" cloned repository (which has an active admin and contributors), I will gladly endorse that repository as "official" (if such an endorsement is desired).
+Finally, if the development community generally agrees upon an "official" forked repository (which has an active admin and contributors), I will gladly endorse that repository as "official" (if such an endorsement is desired).
