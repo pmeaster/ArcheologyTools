@@ -5,9 +5,9 @@ This repository contains the source code for a set of mapping and analysis tools
 
 ## Documents:
 
-**Archeological Renaissance**
+**Archaeological Renaissance**
 
-The four-part series ***Archeological Renaissance*** is located in the "*docs\Archeological Renaissance*" repository folder. Each part of the series is contained in a Microsoft PowerPoint document. 
+The four-part series ***Archaeological Renaissance*** is located in the "*docs\Archeological Renaissance*" repository folder. Each part of the series is contained in a Microsoft PowerPoint document. 
 
 However, pdf versions can be found in the "*docs\Archeological Renaissance\pdf*" repository folder.
 
