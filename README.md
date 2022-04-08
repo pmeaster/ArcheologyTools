@@ -109,3 +109,6 @@ There are **no unit tests** programmed or configured for any of the tools.
 Currently, there are no plans to implement unit tests nor make any changes/enhancements to the codebase located within this repository. However, this repository can be cloned/forked and updated/customized by anyone. 
 
 Finally, if the development community generally agrees upon an "official" forked repository (which has an active admin and contributors), I will gladly endorse that repository as "official" (if such an endorsement is desired).
+
+## Arheology vs. Archaeology:
+All of the documentation initially used the spelling "archeology" as opposed to "archaeology". While both are valid, "archaeology" is the most common and current spelling. Given that, I made an effort to replace all occurances of "archeology" (and "archaeological") with "archaelogy". However, many occurances have been left "as-is" in order to preserve uri links.
