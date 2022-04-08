@@ -1,5 +1,5 @@
 
-# Archeological Renaissance (ArcheologyTools)
+# Archaeological Renaissance (ArchaeologyTools)
 
 This repository contains the source code for a set of mapping and analysis tools. These tools were used to explore the archeological discoveries presented in the four-part series ***Archeological Renaissance***, which is also contained within this repository.
 
