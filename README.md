@@ -111,4 +111,4 @@ Currently, there are no plans to implement unit tests nor make any changes/enhan
 Finally, if the development community generally agrees upon an "official" forked repository (which has an active admin and contributors), I will gladly endorse that repository as "official" (if such an endorsement is desired).
 
 ## Archeology vs. Archaeology:
-All of the documentation initially used the spelling "archeology" as opposed to "archaeology". While both are valid, "archaeology" is the most common and current spelling. Given that, I made an effort to replace all occurances of "archeology" (and "archeological") with "archaeology". However, many occurances have been left "as-is" in order to preserve uri links.
+All of the documentation initially used the spelling "archeology" as opposed to "archaeology". While both are valid, "archaeology" is the most common and current spelling. Given that, I made an effort to replace all occurances of "archeology" (and "archeological") with "archaeology". However, many occurances have been left "as-is" in order to preserve code references and uri links.
