@@ -1,13 +1,13 @@
 
-# Archeological Renaissance (ArcheologyTools)
+# Archaeological Renaissance (ArchaeologyTools)
 
-This repository contains the source code for a set of mapping and analysis tools. These tools were used to explore the archeological discoveries presented in the four-part series ***Archeological Renaissance***, which is also contained within this repository.
+This repository contains the source code for a set of mapping and analysis tools. These tools were used to explore the archeological discoveries presented in the four-part series ***Archaeological Renaissance***, which is also contained within this repository.
 
 ## Documents:
 
-**Archeological Renaissance**
+**Archaeological Renaissance**
 
-The four-part series ***Archeological Renaissance*** is located in the "*docs\Archeological Renaissance*" repository folder. Each part of the series is contained in a Microsoft PowerPoint document. 
+The four-part series ***Archaeological Renaissance*** is located in the "*docs\Archeological Renaissance*" repository folder. Each part of the series is contained in a Microsoft PowerPoint document. 
 
 However, pdf versions can be found in the "*docs\Archeological Renaissance\pdf*" repository folder.
 
@@ -20,11 +20,11 @@ Data reference Excel spreadsheets can be found in the "*docs\Data Reference*" re
  - Pole Locations/Axis Positions
  - Lantis Locations
 
-This data is directly referenced within the ***Archeological Renaissance*** series.
+This data is directly referenced within the ***Archaeological Renaissance*** series.
 
 **Research Papers**
 
-Several research papers can be found in the "*docs\Research Papers*" repository folder.  Information from these research papers is directly referenced within the ***Archeological Renaissance*** series.
+Several research papers can be found in the "*docs\Research Papers*" repository folder.  Information from these research papers is directly referenced within the ***Archaeological Renaissance*** series.
 
 ## Tools:
 
@@ -106,6 +106,9 @@ All tools support (and use) .Net Core dependency injection.
 
 There are **no unit tests** programmed or configured for any of the tools. 
 
-Currently, there are no plans to implement unit tests nor make any changes/enhancements to the codebase located within this repository. However, this repository can be cloned and updated/customized by anyone. 
+Currently, there are no plans to implement unit tests nor make any changes/enhancements to the codebase located within this repository. However, this repository can be cloned/forked and updated/customized by anyone. 
 
-Finally, if the development community generally agrees upon an "official" cloned repository (which has an active admin and contributors), I will gladly endorse that repository as "official" (if such an endorsement is desired).
+Finally, if the development community generally agrees upon an "official" forked repository (which has an active admin and contributors), I will gladly endorse that repository as "official" (if such an endorsement is desired).
+
+## Archeology vs. Archaeology:
+All of the documentation initially used the spelling "archeology" as opposed to "archaeology". While both are valid, "archaeology" is the most common and current spelling. Given that, I made an effort to replace all occurances of "archeology" (and "archeological") with "archaeology". However, many occurances have been left "as-is" in order to preserve uri links.
