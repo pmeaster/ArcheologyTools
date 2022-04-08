@@ -20,11 +20,11 @@ Data reference Excel spreadsheets can be found in the "*docs\Data Reference*" re
  - Pole Locations/Axis Positions
  - Lantis Locations
 
-This data is directly referenced within the ***Archeological Renaissance*** series.
+This data is directly referenced within the ***Archaeological Renaissance*** series.
 
 **Research Papers**
 
-Several research papers can be found in the "*docs\Research Papers*" repository folder.  Information from these research papers is directly referenced within the ***Archeological Renaissance*** series.
+Several research papers can be found in the "*docs\Research Papers*" repository folder.  Information from these research papers is directly referenced within the ***Archaeological Renaissance*** series.
 
 ## Tools:
 
